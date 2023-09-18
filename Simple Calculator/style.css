@@ -1,0 +1,15 @@
+/*
+ ___ ___ __  __ ___ _    ___    ___   _   _    ___ _   _ _      _ _____ ___  ___ 
+/ __|_ _|  \/  | _ \ |  | __|  / __| /_\ | |  / __| | | | |    /_\_   _/ _ \| _ \
+\__ \| || |\/| |  _/ |__| _|  | (__ / _ \| |_| (__| |_| | |__ / _ \| || (_) |   /
+|___/___|_|  |_|_| |____|___|  \___/_/ \_\____\___|\___/|____/_/ \_\_| \___/|_|_\
+                                                                                 
+ _____   __  ___          ___           ___  
+| _ ) \ / / | _ ) ___ ___| _ ) ___ _  _|   \ 
+| _ \\ V /  | _ \/ -_) -_) _ \/ _ \ || | |) |
+|___/ |_|   |___/\___\___|___/\___/\_, |___/ 
+                                   |__/  
+
+*/
+
+#calculator,body{background-color:#3c3c3c;}html,body{font-family:arial,sans-serif;}body,html{height:100%;}html,body{margin-left:0;}body,html{margin-bottom:0;}#calculator{padding-left:22.5pt;}html,body{margin-right:0;}html,body{margin-top:0;}html,body{justify-content:center;}#calculator{padding-bottom:22.5pt;}html,body{align-items:center;}#calculator{padding-right:22.5pt;}#calculator{padding-top:22.5pt;}#calculator{margin-top:30px;}#calculator{border-radius:.104166667in;}body,html{display:flex;}body,html{padding-top:20px;}#calculator{box-shadow:0 0 .3125in rgba(255,255,255,7);}#calculator{color:#efefef;}html,body{padding-left:50px;}#calculator{font-size:.1875in;}#calculator{text-align:center;}body,html{padding-right:.520833333in;}body,html{padding-bottom:15pt;}body,html{overflow:hidden;}body,html{user-select:none;}#display,#display:hover{background-color:#666;}#display{border-left-width:medium;}#display{border-bottom-width:medium;}#display{border-right-width:medium;}#display{border-top-width:medium;}input:hover{background-color:#b0b0b0;}input:hover{cursor:pointer;}input,#display{border-left-style:none;}#display,input{border-bottom-style:none;}#display,input{border-right-style:none;}#display,input{border-top-style:none;}#display{border-left-color:currentColor;}#display:hover{cursor:text;}#display{border-bottom-color:currentColor;}#display{border-right-color:currentColor;}#display{border-top-color:currentColor;}html{background-color:#3c3c3c;}#display{border-image:none;}input{margin-left:.3125pc;}input{margin-bottom:.3125pc;}#display{border-radius:.75pc;}input{margin-right:.3125pc;}input{margin-top:.3125pc;}input{padding-top:15px;}#display{padding-left:1.875pc;}#display{padding-bottom:1.875pc;}#display{padding-right:1.875pc;}#display{padding-top:1.875pc;}#display{margin-bottom:.208333333in;}#titlu{font-size:36pt;}input{padding-left:20px;}input{padding-right:20px;}#titlub,input{font-size:22px;}#titlub{color:yellow;}input{padding-bottom:.9375pc;}input{border-radius:.041666667in;}input{border-left-width:.125in;}input{border-bottom-width:.125in;}input{border-right-width:.125in;}input{border-top-width:.125in;}input{border-left-color:black;}input{border-bottom-color:black;}input{border-right-color:black;}input{border-top-color:black;}input{border-image:none;}input{background-color:#878686;}input{font-weight:700;}input{color:white;}
